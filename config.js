@@ -12,5 +12,5 @@ const CONFIG = {
     mess: '21h ngày mai nháa',
     messDesc: '...',
     btnAccept: 'Okiiii lun <3',
-    messLink: 'https://www.google.com/search?q=y%C3%AAu+anh&source=lmns&bih=785&biw=412&client=ms-android-samsung-gj-rev1&prmd=ivmn&hl=vi&sa=X&ved=2ahUKEwjC867X49jxAhVrzYsBHd1oA8QQ_AUoAHoECAAQAw' 
+    messLink: 'jC867X49jxAhVrzYsBHd1oA8QQ_AUoAHoECAAQAw' 
 }
