@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Ok:3',
     mess: '21h ngày mai nháa',
     messDesc: '...',
-    btnAccept: 'Okiiii lun <3',
+    btnAccept: 'Okiii lun <3',
     messLink: 'https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zKhMTjOqMC0wYPTiz1TIyS9LVajML1UwNjAwAACenQlh&q=i+love+you+3000&oq=i&aqs=chrome.1.69i59j46i39j69i60l3.1823j0j4&client=ms-android-samsung-gj-rev1&sourceid=chrome-mobile&ie=UTF-8' 
 }
